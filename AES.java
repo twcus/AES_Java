@@ -89,10 +89,6 @@ public class AES {
 								{0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00},
 								{0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00}};
 
-	//Hard coded input and key for debugging
-	final static String testLine = "000000000000000000000000000";
-	final static String testLine2 = "1a1f030405";
-	final static String testKey = "00000000000000000000000000000000";
 
 	//Set to true to output timing data
 	final static boolean TIMING = false;
