@@ -1,6 +1,4 @@
 /*
- * Thomas Custer, twc463
- * Assignment 4
  * AES-128 encryption and decryption
  */
 
